@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<svg width="640" height="480" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <!-- Created with SVG-edit - https://github.com/SVG-Edit/svgedit-->
+ <defs>
+  <symbol id="svg_1" viewBox="0 0 384 512" xmlns="http://www.w3.org/2000/svg">
+   <!--!Font Awesome Free 6.5.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2024 Fonticons, Inc.-->
+   <path d="m0,64c0,-35.3 28.7,-64 64,-64l160,0l0,128c0,17.7 14.3,32 32,32l128,0l0,288c0,35.3 -28.7,64 -64,64l-256,0c-35.3,0 -64,-28.7 -64,-64l0,-384zm384,64l-128,0l0,-128l128,128z"/>
+  </symbol>
+ </defs>
+ <g class="layer">
+  <title>Layer 1</title>
+  <use id="svg_2" transform="matrix(0.416667 0 0 0.416667 0 0)" x="398.4" xlink:href="#svg_1" y="268.8"/>
+  <text fill="#ffffff" font-family="Serif" font-size="28" id="svg_3" stroke="#000000" stroke-width="0" style="cursor: move;" text-anchor="middle" x="299" xml:space="preserve" y="226">RESUME</text>
+ </g>
+</svg>
